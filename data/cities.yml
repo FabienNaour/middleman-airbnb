@@ -1,0 +1,10 @@
+- name: Berlin
+  country: Germany
+  address: "Rudi-Dutschke-Straße 26, 10969 Berlin"
+  description: Nice appartment in Berlin
+  user: jjdinho
+- name: Paris
+  address: "16, villa Gaudelet 75011 Paris"
+  country: France
+  description: Cool in Paris
+  user: fabiennaour
